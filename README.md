@@ -1,3 +1,3 @@
-Electronic Music Radio FM project from around the world.
-Based on html and css.
+Proyecto de retransmisión de radio fm y digital.
+Basado en html and css.
 ¡Visit https://sup-modz.github.io/emr.github.io/ to listen!
